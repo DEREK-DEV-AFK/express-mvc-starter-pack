@@ -1,0 +1,8 @@
+[
+    { "name": "controllers"},
+    { "name": "models"},
+    { "name": "services"},
+    { "name": "routes"},
+    { "name": "config"},
+    { "name": "utils"}
+]
