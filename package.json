@@ -1,0 +1,29 @@
+{
+  "name": "express-mvc-starter-pack",
+  "version": "1.0.0",
+  "description": "An start pack for express's best folder structure",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-check": "node generate-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEREK-DEV-AFK/express-mvc-starter-pack.git"
+  },
+  "keywords": [
+    "express",
+    "mvc",
+    "npm",
+    "package",
+    "npm",
+    "folder",
+    "structure"
+  ],
+  "author": "Sufiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEREK-DEV-AFK/express-mvc-starter-pack/issues"
+  },
+  "homepage": "https://github.com/DEREK-DEV-AFK/express-mvc-starter-pack#readme"
+}
